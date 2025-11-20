@@ -1,0 +1,5 @@
+{
+  "name": "Bug Bounty Dojo",
+  "description": "An interactive gamified platform to learn OWASP Top 10 vulnerabilities with live simulations and AI-powered mentorship.",
+  "requestFramePermissions": []
+}
