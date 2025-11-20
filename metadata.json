@@ -1,5 +1,5 @@
 {
   "name": "Bug Bounty Dojo",
-  "description": "An interactive gamified platform to learn OWASP Top 10 vulnerabilities with live simulations and AI-powered mentorship.",
+  "description": "An interactive web security training platform featuring SQLi, XSS, IDOR, CSRF, and Command Injection simulations. Includes a multi-language AI tutor powered by Gemini 2.5.",
   "requestFramePermissions": []
 }
